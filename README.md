@@ -1,5 +1,17 @@
+# 사용 기술
+- React
+- JavaScript
+- CSS
+- Redux
+- Axios
+- Naver Cloud Platform
+- MySQL
+- MyBatis
+- Git
+- Python
+<br><br><br>
+
 # 구현한 페이지 및 기능
-<br><br>
 
 ### 1. 메인 페이지
 - 상품 데이터를 불러와 슬라이드 형식으로 보여주기
