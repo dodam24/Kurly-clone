@@ -1,3 +1,20 @@
+## 메인 페이지
+<img src="https://github.com/dodam24/Market-kurly-clone/assets/121652059/0a9c6c50-3d2f-47f2-b520-fc634c643639">
+<img src="https://github.com/dodam24/Market-kurly-clone/assets/121652059/dad403ec-b11d-493f-a856-f87ac96f22d4">
+<br><br>
+
+## 장바구니
+<img src="https://github.com/dodam24/Market-kurly-clone/assets/121652059/512e37d5-e47e-45d4-8265-78767dc6c52c">
+<br><br>
+
+## 회원가입
+<img src="https://github.com/dodam24/Market-kurly-clone/assets/121652059/d5cdf8ee-4a84-49b5-87e9-6b36a0c18c6a">
+<br><br>
+
+## 로그인
+<img src="https://github.com/dodam24/Market-kurly-clone/assets/121652059/fd4df019-0540-48e6-8c74-6c987d33a138">
+<br><br><br>
+
 # 사용 기술
 - React
 - JavaScript
